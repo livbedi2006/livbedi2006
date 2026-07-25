@@ -1,4 +1,3 @@
-```md
 # Liv Bedi
 
 <div align="center">
