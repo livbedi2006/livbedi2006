@@ -194,12 +194,13 @@ A text-similarity project that applies NLP preprocessing and vector-space techni
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=livbedi2006&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9&ring_color=7C3AED" alt="GitHub stats"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=livbedi2006&hide_border=true&background=0D1117&ring=A78BFA&fire=8B5CF6&currStreakLabel=C9D1D9&sideLabels=C9D1D9&dates=8B949E&stroke=0D1117" alt="GitHub streak"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=livbedi2006&theme=tokyonight&hide_border=true" alt="GitHub streak statistics" />
 
-<br/>
+<br/><br/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=livbedi2006&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" alt="Top languages"/>
+![Followers](https://img.shields.io/github/followers/livbedi2006?style=for-the-badge&color=7C3AED&labelColor=18181B&label=FOLLOWERS)
+![Stars](https://img.shields.io/github/stars/livbedi2006?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=8B5CF6&labelColor=18181B&label=TOTAL+STARS)
+![Profile Views](https://komarev.com/ghpvc/?username=livbedi2006&style=for-the-badge&color=4F46E5&label=PROFILE+VIEWS)
 
 </div>
 
