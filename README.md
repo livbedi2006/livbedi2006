@@ -1,3 +1,4 @@
+```md
 # Liv Bedi
 
 <div align="center">
@@ -194,22 +195,13 @@ A text-similarity project that applies NLP preprocessing and vector-space techni
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=livbedi2006&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9&ring_color=7C3AED" alt="GitHub stats"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=livbedi2006&hide_border=true&background=0D1117&ring=A78BFA&fire=8B5CF6&currStreakLabel=C9D1D9&sideLabels=C9D1D9&dates=8B949E&stroke=0D1117" alt="GitHub streak"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=livbedi2006&theme=tokyonight&hide_border=true" alt="GitHub streak statistics" />
 
-<br/>
+<br/><br/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=livbedi2006&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" alt="Top languages"/>
-
-</div>
-
----
-
-## GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=livbedi2006&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=6" alt="GitHub trophies"/>
+![Followers](https://img.shields.io/github/followers/livbedi2006?style=for-the-badge&color=7C3AED&labelColor=18181B&label=FOLLOWERS)
+![Stars](https://img.shields.io/github/stars/livbedi2006?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&color=8B5CF6&labelColor=18181B&label=TOTAL+STARS)
+![Profile Views](https://komarev.com/ghpvc/?username=livbedi2006&style=for-the-badge&color=4F46E5&label=PROFILE+VIEWS)
 
 </div>
 
@@ -219,17 +211,7 @@ A text-similarity project that applies NLP preprocessing and vector-space techni
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=livbedi2006&bg_color=0D1117&color=C9D1D9&line=8B5CF6&point=A78BFA&area=true&hide_border=true" alt="Contribution activity graph"/>
-
-</div>
-
----
-
-## Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/livbedi2006/livbedi2006/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=livbedi2006&bg_color=0D1117&color=C9D1D9&line=8B5CF6&point=A78BFA&area=true&hide_border=true" alt="Liv Bedi's contribution graph"/>
 
 </div>
 
@@ -275,3 +257,4 @@ open_to:
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:16023B,45:4C1D95,72:7C3AED,100:2563EB"/>
 
 </div>
+```
