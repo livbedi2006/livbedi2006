@@ -1,4 +1,4 @@
-# Liv Bedi
+# Livjot Singh Bedi
 
 <div align="center">
 
@@ -31,7 +31,7 @@
 
 ## About
 
-I am **Liv Bedi**, a B.Tech Computer Science student and software engineering intern focused on building dependable, scalable products. My work sits at the intersection of **backend engineering, AI/ML, NLP, and full-stack development**.
+I am **Livjot singh Bedi**, a B.Tech Computer Science student and software engineering intern focused on building dependable, scalable products. My work sits at the intersection of **backend engineering, AI/ML, NLP, and full-stack development**.
 
 I care about thoughtful APIs, resilient data flows, measurable model behavior, secure-by-default practices, and product decisions that make software genuinely useful.
 
