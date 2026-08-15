@@ -2,15 +2,17 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:16023B,45:4C1D95,72:7C3AED,100:2563EB&text=Liv%20Bedi&fontSize=58&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Machine%20Learning%20Engineer&descAlignY=58&descSize=20"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:16023B,45:4C1D95,72:7C3AED,100:2563EB&text=Livjot%20Singh%20Bedi&fontSize=52&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Machine%20Learning%20Engineer&descAlignY=58&descSize=20"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=27&duration=3500&pause=900&color=A78BFA&center=true&vCenter=true&width=900&lines=AI%2FML+Engineer;Machine+Learning+Enthusiast;Building+Intelligent+Systems;Exploring+NLP%2C+Deep+Learning+%26+AI" alt="Typing SVG"/>
+<br/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=27&duration=3500&pause=900&color=A78BFA&center=true&vCenter=true&width=900&lines=AI%2FML+Engineer;Exploring+NLP%2C+Deep+Learning+%26+AI;Building+Intelligent+Systems;Turning+Data+into+Solutions" alt="Typing SVG"/>
 
 <br/><br/>
 
-![B.Tech CSE](https://img.shields.io/badge/B.Tech-CSE-6D28D9?style=for-the-badge\&logo=academia\&logoColor=white)
-![AI & ML Engineer](https://img.shields.io/badge/Role-AI%2FML%20Engineer-4F46E5?style=for-the-badge\&logo=openai\&logoColor=white)
-![India](https://img.shields.io/badge/Location-India-312E81?style=for-the-badge\&logo=googlemaps\&logoColor=white)
+![B.Tech CSE](https://img.shields.io/badge/B.Tech-CSE-6D28D9?style=for-the-badge)
+![Role](https://img.shields.io/badge/Role-AI%2FML%20Engineer-4F46E5?style=for-the-badge)
+![Location](https://img.shields.io/badge/Location-India-312E81?style=for-the-badge)
 
 <br/><br/>
 
@@ -40,11 +42,21 @@
 
 ---
 
+## ♟️ Chess Replay
+
+<div align="center">
+
+<img src="assets/chess-replay.gif" alt="Animated Chess Replay" width="500"/>
+
+</div>
+
+---
+
 # 🧠 About Me
 
 I am **Livjot Singh Bedi**, a B.Tech Computer Science student focused on becoming an **AI/ML Engineer**.
 
-I am passionate about building intelligent systems using **Machine Learning, Artificial Intelligence, Natural Language Processing, Deep Learning, Python, and data-driven technologies**.
+I am passionate about building intelligent systems using **Artificial Intelligence, Machine Learning, Natural Language Processing, Deep Learning, Python, and data-driven technologies**.
 
 My current journey involves experimenting with machine learning models, NLP systems, intelligent applications, and AI-powered solutions that solve real-world problems.
 
@@ -66,7 +78,7 @@ My current journey involves experimenting with machine learning models, NLP syst
 
 <br/>
 
-### 📊 Data Science & Databases
+### 📊 Databases
 
 [![Skill Icons](https://skillicons.dev/icons?i=mysql,postgres\&theme=dark)](https://skillicons.dev)
 
@@ -74,7 +86,7 @@ My current journey involves experimenting with machine learning models, NLP syst
 
 ### 💻 Programming Languages
 
-[![Skill Icons](https://skillicons.dev/icons?i=python,java,cpp,js,sql\&theme=dark)](https://skillicons.dev)
+[![Skill Icons](https://skillicons.dev/icons?i=python,java,cpp,js\&theme=dark)](https://skillicons.dev)
 
 <br/>
 
@@ -84,7 +96,7 @@ My current journey involves experimenting with machine learning models, NLP syst
 
 <br/>
 
-### ⚙️ Tools & Technologies
+### ⚙️ Tools
 
 [![Skill Icons](https://skillicons.dev/icons?i=git,github,docker,vscode,linux\&theme=dark)](https://skillicons.dev)
 
@@ -94,87 +106,39 @@ My current journey involves experimenting with machine learning models, NLP syst
 
 # 🧠 AI / ML Expertise
 
-| Domain                         | Level      | Skills                                          |
-| :----------------------------- | :--------- | :---------------------------------------------- |
-| 🤖 Machine Learning            | Applied    | Model training, feature engineering, evaluation |
-| 📝 Natural Language Processing | Applied    | Text preprocessing, TF-IDF, cosine similarity   |
-| 🧠 Deep Learning               | Learning   | Neural networks, CNNs, TensorFlow, PyTorch      |
-| 📊 Data Science                | Developing | Data preprocessing, visualization, analysis     |
-| ⚡ AI Applications              | Applied    | Intelligent systems and AI-powered solutions    |
+| Domain              | Focus      | Skills                                          |
+| :------------------ | :--------- | :---------------------------------------------- |
+| 🤖 Machine Learning | Applied    | Model training, feature engineering, evaluation |
+| 📝 NLP              | Applied    | Text preprocessing, TF-IDF, cosine similarity   |
+| 🧠 Deep Learning    | Learning   | Neural networks, CNNs, TensorFlow, PyTorch      |
+| 📊 Data Science     | Developing | Data preprocessing, visualization, analysis     |
+| ⚡ AI Applications   | Applied    | Intelligent systems and AI-powered solutions    |
 
 ---
 
 # 🚀 Featured Projects
 
-<details>
-<summary><b>🔎 Plagiarism Detector</b></summary>
+## 🔎 Plagiarism Detector
 
-<br/>
+An NLP-based plagiarism detection system that analyzes text similarity using preprocessing, TF-IDF vectorization, cosine similarity, n-gram analysis, and other similarity techniques.
 
-An NLP-based plagiarism detection system that analyzes text similarity using preprocessing, TF-IDF vectorization, cosine similarity, n-gram analysis, and similarity techniques.
-
-| Area          | Implementation                      |
-| :------------ | :---------------------------------- |
-| 🧠 Domain     | NLP & Machine Learning              |
-| 💻 Stack      | Python, Flask, Scikit-learn, NLTK   |
-| 📊 Techniques | TF-IDF, Cosine Similarity, N-grams  |
-| 📄 Input      | Text, PDF, and DOCX                 |
-| 🎯 Goal       | Identify meaningful text similarity |
-
-### 🔗 Repository
+**Tech:** Python · Flask · Scikit-learn · NLTK
 
 <a href="https://github.com/livbedi2006/Plagiarism-Detector">
-  View Plagiarism Detector
+  <img src="https://img.shields.io/badge/View%20Project-Plagiarism%20Detector-7C3AED?style=for-the-badge&logo=github"/>
 </a>
-
-</details>
 
 ---
 
-<details>
-<summary><b>💊 Medicine Scan</b></summary>
+## 💊 Medicine Scan
 
-<br/>
+A HealthTech-focused medicine verification system designed around QR and barcode scanning workflows.
 
-A HealthTech-focused medicine verification system designed to help identify and verify medicines using QR codes and barcode-based workflows.
-
-| Area          | Implementation                              |
-| :------------ | :------------------------------------------ |
-| 🏥 Domain     | HealthTech                                  |
-| 💻 Stack      | Python & Web Technologies                   |
-| 🔍 Technology | QR & Barcode Scanning                       |
-| 🎯 Goal       | Medicine Verification                       |
-| 🚀 Focus      | Detecting potentially counterfeit medicines |
-
-### 🔗 Repository
+**Tech:** Python · Web Technologies · QR/Barcode
 
 <a href="https://github.com/livbedi2006/Medicine_Scan">
-  View Medicine Scan
+  <img src="https://img.shields.io/badge/View%20Project-Medicine%20Scan-4F46E5?style=for-the-badge&logo=github"/>
 </a>
-
-</details>
-
----
-
-<details>
-<summary><b>🧠 Description Matching System</b></summary>
-
-<br/>
-
-An NLP-focused system designed to compare descriptions and identify meaningful similarity using vector-based techniques.
-
-| Area         | Implementation                   |
-| :----------- | :------------------------------- |
-| 🧠 Domain    | Natural Language Processing      |
-| 💻 Stack     | Python, FastAPI, NLP             |
-| 📊 Technique | TF-IDF and Similarity Scoring    |
-| 🎯 Goal      | Intelligent Description Matching |
-
-<a href="https://github.com/livbedi2006?tab=repositories">
-  Explore Repository
-</a>
-
-</details>
 
 ---
 
@@ -182,7 +146,7 @@ An NLP-focused system designed to compare descriptions and identify meaningful s
 
 <div align="center">
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=livbedi2006&theme=tokyonight&hide_border=true" alt="GitHub Streak Statistics"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=livbedi2006&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 <br/><br/>
 
@@ -190,17 +154,30 @@ An NLP-focused system designed to compare descriptions and identify meaningful s
 
 ![Stars](https://img.shields.io/github/stars/livbedi2006?affiliations=OWNER%2CCOLLABORATOR\&style=for-the-badge\&color=8B5CF6\&labelColor=18181B\&label=TOTAL+STARS)
 
-![Profile Views](https://komarev.com/ghpvc/?username=livbedi2006\&style=for-the-badge\&color=4F46E5\&label=PROFILE+VIEWS)
-
 </div>
 
 ---
 
-# 📊 Contribution Activity
+# 🚀 Contribution Invaders
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=livbedi2006&bg_color=0D1117&color=C9D1D9&line=8B5CF6&point=A78BFA&area=true&hide_border=true" alt="Livjot Singh Bedi's Contribution Graph"/>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/livbedi2006/livbedi2006/output/commit-invaders-dark.svg"
+  />
+
+<source
+ media="(prefers-color-scheme: light)"
+ srcset="https://raw.githubusercontent.com/livbedi2006/livbedi2006/output/commit-invaders.svg"
+/>
+
+<img
+ alt="Commit Invaders"
+ src="https://raw.githubusercontent.com/livbedi2006/livbedi2006/output/commit-invaders.svg"
+ width="100%"
+/> </picture>
 
 </div>
 
@@ -237,35 +214,20 @@ open_to:
 
 ---
 
-# 🏆 Achievements
-
-<div align="center">
-
-| Achievement            | Details                                            |
-| :--------------------- | :------------------------------------------------- |
-| 🧠 Applied AI/ML       | Building projects using NLP and Machine Learning   |
-| 💻 AI Projects         | Developing intelligent real-world applications     |
-| 📚 Continuous Learning | Exploring AI, ML, Deep Learning and Data Science   |
-| 🚀 Open Source         | Learning through projects and GitHub collaboration |
-
-</div>
-
----
-
 # 🤝 Connect With Me
 
 <div align="center">
 
 <a href="mailto:livjotseerat@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/livjot-singh-7909a0334/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/livbedi2006">
-  <img src="https://img.shields.io/badge/GitHub-livbedi2006-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-livbedi2006-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
@@ -275,8 +237,6 @@ open_to:
 <div align="center">
 
 > 🧠 **Building intelligent systems, one model and one commit at a time.**
-
-<br/>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:16023B,45:4C1D95,72:7C3AED,100:2563EB"/>
 
